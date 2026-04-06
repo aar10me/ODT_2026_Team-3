@@ -461,11 +461,25 @@ Insert a sketch or screenshot of the app interface.
 
 ## 12.1 Full BOM
 
-| Item | Quantity | In Kit? | Need to Buy? | Estimated Cost | Material / Spec | Why This Choice? |
-|---|---:|---|---|---:|---|---|
-| `[ESP32]` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
-| `[Item]` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
-| `[Item]` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
+ELECTRIC Components
+| Item | Quantity | No. In Kit | No.to Buy| Estimated Cost | Material / Spec | Why This Choice? |
+| `Servo Motor` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
+| `Stepper Motor` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
+| `Neopixel ring` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
+| `ESP32` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
+| `Breadboard` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
+| `DC Motor` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
+
+PHYSICAL Components
+| Item | Quantity | No. In Kit | No.to Buy| Estimated Cost | Material / Spec | Why This Choice? |
+| `MDF board` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
+| `Artist wire` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
+| `Sun board` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
+| `Mount board` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
+| `Masking/Transparent tape` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
+| `Wooden skewers` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
+| `Newspaper/Tissue Paper` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
+
 
 ## 12.2 Material Justification
 Explain why you selected your main materials and components.
