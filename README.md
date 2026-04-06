@@ -463,12 +463,12 @@ Insert a sketch or screenshot of the app interface.
 
 ELECTRIC Components
 | Item | Quantity | No. In Kit | No.to Buy| Estimated Cost | Material / Spec | Why This Choice? |
-| `Servo Motor` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
-| `Stepper Motor` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
-| `Neopixel ring` | `[Qty]` | `[Yes/No]` | `[Yes/No]` | `[Cost]` | `[Spec]` | `[Reason]` |
-| `ESP32` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
-| `Breadboard` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
-| `DC Motor` | `1` | `Yes` | `No` | `0` | `[Spec]` | `[Reason]` |
+| `Servo Motor` | `5` | `2` | `200` | `[Spec]` | `[Reason]` |
+| `Stepper Motor` | `1` | `1` | `130` | `[Spec]` | `[Reason]` |
+| `Neopixel ring` | `0` | `1` | `90` | `[Spec]` | `[Reason]` |
+| `ESP32` | `1` | `1` | `0` | `0` | `[Spec]` | `[Reason]` |
+| `Breadboard` | `1` | `0` | `0` | `0` | `[Spec]` | `[Reason]` |
+| `DC Motor` | `1` | `1` | `0` | `0` | `[Spec]` | `[Reason]` |
 
 PHYSICAL Components
 | Item | Quantity | No. In Kit | No.to Buy| Estimated Cost | Material / Spec | Why This Choice? |
