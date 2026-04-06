@@ -51,21 +51,20 @@ By the final review, this README should clearly show:
 
 # 1. Team Identity
 
-## 1.1 Studio / Group Name
-`[Enter your group name]`
+Team 3`[Enter your group name]`
 
 ## 1.2 Team Members
 
-| Name | Primary Role | Secondary Role | Strengths Brought to the Project |
+| Vasundhara | Coding | Physical model | Electronics,Mechanical logic, Design |
 |---|---|---|---|
 | `[Student 1]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
 | `[Student 2]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
 
 ## 1.3 Project Title
-`[Enter the title of your project]`
+`The Golden Deer`
 
 ## 1.4 One-Line Pitch
-`[Describe your project in one sentence]`
+`An interactive and narrative diorama, bringing to life the story of the Golden Deer from Ramayana`
 
 ## 1.5 Expanded Project Idea
 In 1–2 paragraphs, explain:
