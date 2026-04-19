@@ -1,5 +1,5 @@
 # Open Design and Technology  
-## Final Project README
+## The golden deer 
 
 > **Project Weight:** 70%  
 > **Team Size:** 2 students  
@@ -51,14 +51,14 @@ By the final review, this README should clearly show:
 
 # 1. Team Identity
 
-Team 3`[Enter your group name]`
+Team 3`The Golden Deer
 
-## 1.2 Team Members
+## 1.2 Vasundhara Vaudya and Riddhima Shaw
 
 | Vasundhara | Coding | Physical model | Electronics,Mechanical logic, Design |
 |---|---|---|---|
 | `[Student 1]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
-| `[Student 2]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
+| `[Riddhima]` | `[Physical Model/ Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
 
 ## 1.3 Project Title
 `The Golden Deer`
@@ -68,9 +68,11 @@ Team 3`[Enter your group name]`
 
 ## 1.5 Expanded Project Idea
 In 1–2 paragraphs, explain:
-- what your project is,
-- what kind of playful experience it creates,
-- what makes it fun, curious, engaging, strange, satisfying, competitive, or delightful,
+- The project is an interactive diorama which takes us inside the world of ramayana where the golden deer mesmarised Sita
+- It lets the audience interact with indian narratives while being exposed to world building as well as gaining mythological knowledge with the help of technologies, the audience has the
+- control over when to start this 2 minute play, where they can control the narration through an app connected to the diorama
+- A play with several movements and a feeling of nature is what gains curiosity, the visual and the sound effects add to the part of this project which makes it more fun captivating and
+- engaging to the viewer
 - what technologies are involved.
 
 **Response:**  
