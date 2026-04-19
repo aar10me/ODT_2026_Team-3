@@ -73,11 +73,16 @@ In 1–2 paragraphs, explain:
 - control over when to start this 2 minute play, where they can control the narration through an app connected to the diorama
 - A play with several movements and a feeling of nature is what gains curiosity, the visual and the sound effects add to the part of this project which makes it more fun captivating and
 - engaging to the viewer
-- what technologies are involved.
+- Technologies such as the stepper motor, servos as well as motion sensor are used for this process,  The curtains of the stage opens up when a wave motion is detected by the ir sensor and the play starts, the parts such as the doll of sita the deer as well as the arrow move seperately with servos as well as stepper motors
 
 **Response:**  
 `[Write here]`
-
+- The project is an interactive diorama which takes us inside the world of ramayana where the golden deer mesmarised Sita
+- It lets the audience interact with indian narratives while being exposed to world building as well as gaining mythological knowledge with the help of technologies, the audience has the
+- control over when to start this 2 minute play, where they can control the narration through an app connected to the diorama
+- A play with several movements and a feeling of nature is what gains curiosity, the visual and the sound effects add to the part of this project which makes it more fun captivating and
+- engaging to the viewer
+- Technologies such as the stepper motor, servos as well as motion sensor are used for this process,  The curtains of the stage opens up when a wave motion is detected by the ir sensor and the play starts, the parts such as the doll of sita the deer as well as the arrow move seperately with servos as well as stepper motors
 ---
 
 # 2. Philosophy Fit
@@ -102,7 +107,7 @@ Answer the following:
 - Why would someone want to try it again?
 
 **Response:**  
-`[Write here]`
+We are creating a play operated by motors to show how mythological scenes can be created by the help of mordern technologies, The experience here is to make the viewer indulge into the mythological world through scenes of seperate characters moving with the help of different motors, The agenda of this play is to generate a sense of curiosity and awe towards our culture adding with peacefulness when the audience sees the character move as if having their own oersinal theatre whenever they want to operate it.
 
 ## 2.3 Design Persona
 Complete the sentence below:
@@ -110,14 +115,14 @@ Complete the sentence below:
 > We are designing this project as if we are a small creative studio making a **[toy / game / playable object / interactive experience]** for **[children / teens / adults / classmates / exhibition visitors / mixed audience]**.
 
 **Response:**  
-`[Write here]`
+We are designing this project as if we are a small creative studio making an interactive experience for a mixed audience 
 
 ---
 
 # 3. Inspiration
-
+Ramayana (the tale of the golden deer)
 ## 3.1 References
-List what inspired the project.
+Mythology 
 
 | Source Type | Title / Link | What Inspired You |
 |---|---|---|
@@ -129,14 +134,14 @@ List what inspired the project.
 What makes your project original?
 
 **Response:**  
-`[Write here]`
+The play is an adaptation of a scene from the Ramayana, how we moveed and played around seperate character while still incorporating their natural bhavior for example- The deer moving and the moving of sitas head and hands while also making the audience interact with the diorama with motion sensors and apps which give them the control over when to start and stop the playing
 
 ---
 
 # 4. Project Intent
 
 ## 4.1 Core Interaction Loop
-Describe the main loop of interaction.
+The core interaction loop are the sensors which help reveal the play when they open the curtain as well as the app which contols the audio and movements 
 
 Examples:
 - press → launch → score → reset
@@ -145,36 +150,35 @@ Examples:
 - move object → sensor detects → sound/light response → player reacts
 
 **Response:**  
-`[Write here]`
-
+wave-curtains open-narrations begin- sitas head moves- dear moves- bow launches- curtains close
 ## 4.2 Intended Player / Audience
 
 | Question | Response |
 |---|---|
-| Who is this for? | `[Write here]` |
-| Age range | `[Write here]` |
-| Solo or multiplayer | `[Write here]` |
+| Who is this for? | a veriety of audience who wants to gain a new mythological experience |
+| Age range | `[5-99 |
+| Solo or multiplayer | `[Nil]` |
 | Expected duration of one round | `[Write here]` |
-| What should the player feel? | `[Write here]` |
-| Is explanation required before use? | `[Write here]` |
+| What should the player feel? | `[a sense of awe and amazement]` |
+| Is explanation required before use? | `[yes]` |
 
 ## 4.3 Player Journey
 Describe exactly how a player will use the project.
 
-1. **Approach:** `[How does the player first encounter it?]`
-2. **Start:** `[How do they begin?]`
-3. **First Action:** `[What do they do first?]`
-4. **Main Interaction:** `[What keeps happening during use?]`
-5. **System Response:** `[How does the project respond?]`
+1. **Approach:** `[How does the player first encounter it?]`The player encounters it as a diorama with close curtains
+2. **Start:** `[How do they begin?]`wave or bring the hand closer to the senser located on top 
+3. **First Action:** `[What do they do first?]`wave or bring their hand closer
+4. **Main Interaction:** `[What keeps happening during use?]`The curtains open revealing the characters and the app is used to start the play
+5. **System Response:** `[How does the project respond?]`By revealing whats behind the curtain 
 6. **Win / Lose / End Condition:** `[How does one round end?]`
-7. **Reset:** `[How does the next round begin?]`
+7. **Reset:** `[How does the next round begin?]`by moving the hand closer to the other senser adjecent to the first one on the top in order to close the curtain
 
 ## 4.4 Rules of Play
 If your project is a game, list the rules clearly.
 
-- `[Rule 1]`
-- `[Rule 2]`
-- `[Rule 3]`
+- `[Rule 1]`Bring your hand closer to the sensor
+- `[Rule 2]`Control movements with the phone app
+- `[Rule 3]`bring the hand closer again after the play has ended
 - `[Rule 4]`
 
 ---
@@ -184,11 +188,11 @@ If your project is a game, list the rules clearly.
 ## 5.1 Definition of “Playable”
 Your project will be considered complete only if these conditions are met.
 
-- [ ] `[Condition 1]`
-- [ ] `[Condition 2]`
-- [ ] `[Condition 3]`
-- [ ] `[Condition 4]`
-- [ ] `[Condition 5]`
+- [ ] `[Condition 1]`The curtains open and close as and when motion is ditected by the seensor 
+- [ ] `[Condition 2]`The sita's doll turns her head and hands 
+- [ ] `[Condition 3]`The deer moves throughout the play 
+- [ ] `[Condition 4]`The bow and arrow mechanisms stretch
+- [ ] `[Condition 5]`The leds and light power on and are ambient 
 
 ## 5.2 Minimum Viable Version
 What is the smallest version of this project that still delivers the core experience?
@@ -199,9 +203,9 @@ What is the smallest version of this project that still delivers the core experi
 ## 5.3 Stretch Features
 What features are nice to have but not essential?
 
-- `[Stretch feature 1]`
-- `[Stretch feature 2]`
-- `[Stretch feature 3]`
+- `[Stretch feature 1]`Sita bending down to touch the deer
+- `[Stretch feature 2]`The deer's legs moving in a mechanism rhythamically to show its running
+- `[Stretch feature 3]`The lights changing colors according to the scenes
 
 ---
 
@@ -210,17 +214,17 @@ What features are nice to have but not essential?
 ## 6.1 Project Type
 Check all that apply.
 
-- [ ] Electronics-based
-- [ ] Mechanical
-- [ ] Sensor-based
-- [ ] App-connected
-- [ ] Motorized
-- [ ] Sound-based
-- [ ] Light-based
-- [ ] Screen/UI-based
-- [ ] Fabricated structure
-- [ ] Game logic based
-- [ ] Installation / tabletop experience
+- [yes ] Electronics-based
+- [yes ] Mechanical
+- [yes ] Sensor-based
+- [yes ] App-connected
+- [yes ] Motorized
+- [yes ] Sound-based
+- [yes ] Light-based
+- [no ] Screen/UI-based
+- [ yes] Fabricated structure
+- [no ] Game logic based
+- [yes ] Installation / tabletop experience
 - [ ] Other: `[Write here]`
 
 ## 6.2 High-Level System Description
@@ -569,10 +573,10 @@ Include:
 
 ### Week 1 — Plan and De-risk
 Expected outcomes:
-- [ ] Idea finalized
-- [ ] Core interaction decided
-- [ ] Sketches made
-- [ ] BOM completed
+- [yes ] Idea finalized
+- [yes ] Core interaction decided
+- [yes ] Sketches made
+- [ yes] BOM completed
 - [ ] Purchase needs identified
 - [ ] Key uncertainty identified
 - [ ] Basic feasibility tested
@@ -627,7 +631,7 @@ Expected outcomes:
 What is the single biggest uncertainty in your project at this stage?
 
 **Response:**  
-`[Write here]`
+How will we make the mechanisms of such that each part moves at different angles
 
 ---
 
@@ -671,7 +675,7 @@ What is the single biggest uncertainty in your project at this stage?
 # 17. Build Documentation
 
 ## 17.1 Fabrication Process
-Describe how the project was physically made.
+The diorama building started with 
 
 Include:
 - cutting,
