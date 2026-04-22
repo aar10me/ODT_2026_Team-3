@@ -538,7 +538,7 @@ Include:
 - how documentation will be maintained.
 
 **Response:**  
-`[Write here]`
+Tasks are devided on the basis of technicality, software and hardware mechanics, where one member foucuses on the software while the other on mechanics and the model aspect of the project
 
 ## 13.2 Task Breakdown
 
@@ -557,13 +557,13 @@ Include:
 
 | Area | Main Owner | Support Owner |
 |---|---|---|
-| Concept and gameplay | `[Name]` | `[Name]` |
-| Electronics | `[Name]` | `[Name]` |
-| Coding | `[Name]` | `[Name]` |
-| App | `[Name]` | `[Name]` |
-| Mechanical build | `[Name]` | `[Name]` |
-| Testing | `[Name]` | `[Name]` |
-| Documentation | `[Name]` | `[Name]` |
+| Concept and gameplay | `[Riddhima]` | `[Vasundhara]` |
+| Electronics | `[vasundhara]` | `[Riddhima]` |
+| Coding | `[vasundhara]` | `[Name]` |
+| App | `[Vasundhara]` | `[Name]` |
+| Mechanical build | `[Tiddhima]` | `[Vasundhara]` |
+| Testing | `[Vasundhara]` | `[Riddhima]` |
+| Documentation | `[Riddhima]` | `[Name]` |
 
 ---
 
@@ -577,8 +577,8 @@ Expected outcomes:
 - [yes ] Core interaction decided
 - [yes ] Sketches made
 - [ yes] BOM completed
-- [ ] Purchase needs identified
-- [ ] Key uncertainty identified
+- [yes ] Purchase needs identified
+- [yes ] Key uncertainty identified
 - [ ] Basic feasibility tested
 
 ### Week 2 — Build Subsystems
@@ -586,8 +586,8 @@ Expected outcomes:
 - [ ] Electronics tests completed
 - [ ] CAD / structure planning completed
 - [ ] App UI started if needed
-- [ ] Mechanical concept tested
-- [ ] Main subsystems partially working
+- [yes ] Mechanical concept tested
+- [partly ] Main subsystems partially working
 
 ### Week 3 — Integrate
 Expected outcomes:
@@ -609,29 +609,29 @@ Expected outcomes:
 
 | Week | Planned Goal | What Actually Happened | What Changed | Next Steps |
 |---|---|---|---|---|
-| Week 1 | `[Write here]` | `[Write here]` | `[Write here]` | `[Write here]` |
-| Week 2 | `[Write here]` | `[Write here]` | `[Write here]` | `[Write here]` |
-| Week 3 | `[Write here]` | `[Write here]` | `[Write here]` | `[Write here]` |
-| Week 4 | `[Write here]` | `[Write here]` | `[Write here]` | `[Write here]` |
+| Week 1 | `[to finalize the idea and the core structure]` | `[sketches completed, idea discussed and finalized]` | `[Write here]` | `[Write here]` |
+| Week 2 | `[Planning out the mechanisms, materials and starting with the code]` | `[Materials were planned out and basic coding and app were started, all the motors and components used were finalized]` | `[Write here]` | 
+| Week 3 | `[set up was started]` | `[lazer cutting files printed and the structure was assembled]` | `[cercuit and code was on its final stages]` | `[mecessary components which were needed last minute were oordered]` |
+| Week 4 | `[Final assembly was done]` | `[codes circuits and the final app were testing all together with the physical model]` | `[final changes were made and mechanisms were operated and tested along with setting them up with motors]` ||
 
 ---
 
 # 15. Risks and Unknowns
-
+We dont know how the servos will be attached at different angles with sperate character components and if the mechanisms will i=be able to take the load of the servos and move without any restrictions 
 ## 15.1 Risk Register
 
 | Risk | Type | Likelihood | Impact | Mitigation Plan | Owner |
 |---|---|---|---|---|---|
-| `[Example: Bluetooth disconnects]` | `Technical` | `Medium` | `High` | `[Fallback interaction / simplify connection flow]` | `[Name]` |
-| `[Example: Structure breaks during play]` | `Mechanical` | `Medium` | `High` | `[Reinforce joints / change material]` | `[Name]` |
-| `[Risk]` | `[Technical / Material / Time / Gameplay]` | `[Low/Medium/High]` | `[Low/Medium/High]` | `[Plan]` | `[Name]` |
-| `[Risk]` | `[Type]` | `[Low/Medium/High]` | `[Low/Medium/High]` | `[Plan]` | `[Name]` |
+| `[ app doesnt connect]` | `Technical` |  `High` | `[remove the app and operate without it / ]` | `[Vasundhara]` |
+| `[ Structure breaks during play]` | `Mechanical` |  `High` | `[Reinforce joints / reconstruct structure]` | `[Riddhima]` |
+| `[Sensors get burnt]` | `[Technical ]` | `[Low/Medium/High]` | `[Medium/High]` | `[Replace them or find an alternative]` | `[Name]` |
+    | `[sequence not working all together]` | `[Mechanichal ]` | `[Medium/High]` | `[recustruct troubleshoot and look out for newer mechanisms]` [Riddhima]
 
 ## 15.2 Biggest Unknown Right Now
 What is the single biggest uncertainty in your project at this stage?
 
 **Response:**  
-How will we make the mechanisms of such that each part moves at different angles
+How will we make the mechanisms of such that each part moves at different angles,how will we manage multiple different actions of seperate components and assemble the code all together without any  damages to the hardwear as well as software with the circuits
 
 ---
 
@@ -751,8 +751,7 @@ What slowed you down?
 How well did you manage time, tasks, and responsibilities?
 
 **Response:**  
-`[Write here]`
-
+The team managed last minute malfunctions and breaking of mechanisms and re-did it, we managed to rebuild the structures and make it more stable and sturdy, the structure of the stage was very firm and the code eventually worked out all together after trying multiple tests, the breaking and malfunctioning of the output devices when taking a lot of load slowed our process as we had to re order, or find the materials the motors were also getting restricted when they were attached with the mechanisms which slowed our process and made it difficlt to navigate through several dfifferent techniques 
 ## 19.2 Technical Reflection
 What did you learn about:
 - electronics,
@@ -762,7 +761,8 @@ What did you learn about:
 - integration?
 
 **Response:**  
-`[Write here]`
+We learnt about how to embedd the coding with the app while joining coding different components seperately and joining them later, we also learnt how to code seperately and finally pu them all together in a single code, building the mechanisms searching for what will fit in and work the best while exploring different angles of how a motor can be attached externally within the mechanism to make it move is a cruicial part of our learning, integrating our learnings throughtout our previous classes and naviating trough the different workings of the devices on our own.Merging the mechanical and the tech aspect was one of our newest learning, through this we learnt how to include two different aspects and make them function together while improvising as well as unconventional and new ideations which we never thaught of before, this made us more aware on how machines function and work.
+
 
 ## 19.3 Design Reflection
 What did you learn about:
@@ -774,13 +774,13 @@ What did you learn about:
 - iteration?
 
 **Response:**  
-`[Write here]`
+we learnt about how plays work and how visual effects and motion conduct visual hiararchy and direction for the play to move and function, we also learnt on how to engage the audience and how to catch the attention with several interactions and aspects within the play, we understood about what feels more engaging and what captivates the eye most, and how to direct a narrative for better third person understanding
 
 ## 19.4 If You Had One More Week
 What would you improve next?
 
 **Response:**  
-`[Write here]`
+`Wif we had more time we would have tried refining the motions and makingthem more smoother while also focusing on the aesthetics of our final sumbission, we would have made the flow more smooth with better movements and mechanisms 
 
 ---
 
