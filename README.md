@@ -244,10 +244,17 @@ Include:
 
 | System Part | Type | What It Does |
 |---|---|---|
-| `[Button / Sensor / Switch / App Input]` | Input | `[Describe]` |
-| `[ESP32 / Controller]` | Processing | `[Describe]` |
-| `[LED / Motor / Servo / Buzzer / Display]` | Output | `[Describe]` |
-| `[Mechanical Assembly]` | Physical Action | `[Describe]` |
+| `MIT App Inventor` | Input | `[Describe]` |
+| `[ESP32` | Processing | `[Describe]` |
+| `Deer Servo motor` | Output | `[Describe]` |
+| `Right hand Servo motor` | Output | `[Describe]` |
+| `Left hand Servo motor` | Output | `[Describe]` |
+| `Bow Servo motor` | Output | `[Describe]` |
+| `Head stepper motor` | Output | `[Describe]` |
+| `Curtain stepper motor` | Output | `[Describe]` |
+| `Stage frame` | Physical Action | `[Describe]` |
+| `Theo Jenson bow mechanism` | Physical Action | `[Describe]` |
+| `Pulley system` | Physical Action | `[Describe]` |
 
 ---
 
