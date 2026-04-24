@@ -512,7 +512,7 @@ Examples:
 |---|---:|
 | Electronics | `[Cost]` |
 | Mechanical parts | `[Cost]` |
-| Fabrication materials | `[Cost]` |
+| Fabrication materials | `[-]` |
 | Purchased extras | `[Cost]` |
 | Contingency | `[Cost]` |
 | **Total** | `[Cost]` |
