@@ -299,17 +299,16 @@ Add a sketch with labels showing:
 Check all that apply.
 
 - [ ] Gears
-- [ ] Pulleys
+- [yes] Pulleys
 - [ ] Belt drives
-- [ ] Linkages
+- [yes] Linkages
 - [ ] Hinges
-- [ ] Shafts
+- [yes] Shafts
 - [ ] Springs
 - [ ] Bearings
 - [ ] Wheels
-- [ ] Sliders
+- [yes] Sliders
 - [ ] Levers
-- [ ] Not applicable
 
 ## 8.2 Mechanical Description
 Describe the mechanism and what it is meant to do.
@@ -333,14 +332,14 @@ If your project includes mechanical motion, document the digital planning before
 
 | Tool Used | File / Link | What Was Tested |
 |---|---|---|
-| `[Fusion 360 / Tinkercad / other]` | `[Link or screenshot]` | `[What did you validate?]` |
-| `[Tool]` | `[Link or screenshot]` | `[What did you validate?]` |
+| `motiongen` | `[Link or screenshot]` | `[What did you validate?]` |
+| `Wokwi` | `[Link or screenshot]` | `[What did you validate?]` |
 
 ## 8.5 Changes After Digital Testing
 What changed after the CAD, animation, or simulation stage?
 
 **Response:**  
-`[Write here]`
+`1.We originally to make he deer using the theo jenson mechanism. How ever, the size required in proportion to the rest of the model, would be too small to be mechanically feasible`
 
 ---
 
@@ -351,8 +350,8 @@ What changed after the CAD, animation, or simulation stage?
 | Component | Quantity | Purpose |
 |---|---:|---|
 | `[ESP32]` | `1` | `[Main controller]` |
-| `[Component]` | `[Qty]` | `[Purpose]` |
-| `[Component]` | `[Qty]` | `[Purpose]` |
+| `Buck convertor` | `[Qty]` | `[Purpose]` |
+| `Single stand wire-5 metres` | `[Qty]` | `[Purpose]` |
 
 ## 9.2 Wiring Plan
 Describe the main electrical connections.
@@ -370,10 +369,10 @@ Insert a hand-drawn or software-made circuit diagram.
 
 | Question | Response |
 |---|---|
-| Power source | `[USB / battery / adapter / other]` |
-| Voltage required | `[Write here]` |
-| Current concerns | `[Write here]` |
-| Safety concerns | `[Write here]` |
+| Power source | `buck convertor connected to an adapter` |
+| Voltage required | `5V` |
+| Current concerns | `The power supply module doesn't provide enough voltage, and the buck convertor is originally set at 12 V which will damage all components` |
+| Safety concerns | `1.Overloading the powersupply with the voltage requirements of multiple motors or damaging said cmponents with the high voltage of the buck convetor.` |
 
 ---
 
