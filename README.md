@@ -544,14 +544,14 @@ Tasks are devided on the basis of technicality, software and hardware mechanics,
 
 | Task ID | Task | Owner | Estimated Hours | Deadline | Dependency | Status |
 |---|---|---|---:|---|---|---|
-| T1 | `[Finalize concept]` | `[Name]` | `2` | `[Date]` | `None` | `To Do` |
-| T2 | `[Complete BOM]` | `[Name]` | `1` | `[Date]` | `T1` | `To Do` |
-| T3 | `[Test electronics]` | `[Name]` | `2` | `[Date]` | `T1` | `To Do` |
-| T4 | `[Build structure]` | `[Name]` | `4` | `[Date]` | `T1` | `To Do` |
-| T5 | `[Write control code]` | `[Name]` | `4` | `[Date]` | `T3` | `To Do` |
-| T6 | `[Integrate system]` | `[Name]` | `4` | `[Date]` | `T4, T5` | `To Do` |
-| T7 | `[Playtest]` | `[Name]` | `2` | `[Date]` | `T6` | `To Do` |
-| T8 | `[Refine and document]` | `[Name]` | `3` | `[Date]` | `T7` | `To Do` |
+| T1 | `[Finalize concept]` | `Vasundhara,Riddhima` | `6` | `[Date]` | `None` | `Done` |
+| T2 | `[Complete BOM]` | `Vasundhara` | `2` | `[Date]` | `T1` | `Done` |
+| T3 | `[Test electronics]` | `Vasundhara` | `6` | `[Date]` | `T1` | `Done` |
+| T4 | `[Build structure]` | `Vasundhara,Riddhima` | `12` | `[Date]` | `T1` | `Done` |
+| T5 | `[Write control code]` | `Vasundhara` | `4` | `[Date]` | `T3` | `Done` |
+| T6 | `[Integrate system]` | `Vasundhara` | `2` | `[Date]` | `T4, T5` | `Done` |
+| T7 | `[Playtest]` | `Vasundhara` | `4` | `[Date]` | `T6` | `Done` |
+| T8 | `[Refine and document]` | `Riddhima` | `6` | `[Date]` | `T7` | `Done` |
 
 ## 13.3 Responsibility Split
 
