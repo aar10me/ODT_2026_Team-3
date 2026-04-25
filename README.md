@@ -419,7 +419,40 @@ Suggested sequence:
 ## 10.4 Pseudocode
 
 ```text
-[Write your pseudocode here]
+START
+
+SET all servos (rservo, lservo, dservo, bservo) to 0°
+WAIT 1s
+
+// Open curtain
+SPIN curtain motor FORWARD 2048 steps
+
+// Scene 1
+MOVE rservo to 45°
+SPIN horizontal motor CLOCKWISE 30°
+WAIT 14.75s
+
+// Scene 2
+SPIN horizontal motor COUNTER-CLOCKWISE 30°  ──┐ simultaneously
+ROTATE dservo 90° COUNTER-CLOCKWISE          ──┘
+MOVE rservo to 0°
+MOVE lservo to 45°
+WAIT 11.75s
+
+// Scene 3
+SPIN horizontal motor COUNTER-CLOCKWISE 30°  ──┐ simultaneously
+ROTATE dservo 90° COUNTER-CLOCKWISE          ──┘
+MOVE lservo to 0°
+MOVE bservo to 180°
+WAIT 5.75s
+
+// Close
+MOVE rservo, lservo, bservo all to 0°
+SPIN horizontal motor CLOCKWISE 30°          ──┐ simultaneously
+ROTATE dservo 180° CLOCKWISE                 ──┘
+SPIN curtain motor BACKWARD 2048 steps
+
+END
 ```
 
 ---
