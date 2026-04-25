@@ -623,7 +623,7 @@ Expected outcomes:
 ---
 
 # 15. Risks and Unknowns
-We dont know how the servos will be attached at different angles with sperate character components and if the mechanisms will i=be able to take the load of the servos and move without any restrictions 
+ `We dont know how the servos will be attached at different angles with sperate character components and if the mechanisms will i=be able to take the load of the servos and move without any restrictions`
 ## 15.1 Risk Register
 
 | Risk | Type | Likelihood | Impact | Mitigation Plan | Owner |
@@ -693,7 +693,11 @@ Include:
 - revisions.
 
 **Response:**  
-`[Write here]`
+- `We started by chalking out measurements of the main stage and structure, after which we made SVG files which were sent for laser cutting using mdf. These were then joined in the wood workshop using hammer and nail, wood grade glue and extra pine blocks for added stability.`
+- `The main model frame was made using metal wire , with the main hand and head pieces scultpted with light weight air drying clay.`
+- `An old saree was cut and glued, used for both the curtain and the saree for the main model`
+- `The bow mechanism was made online using motiongen, then printed out in a 1:1 scale then made using cardstock paper`
+- `Wire was used to make shafts for rotation and lever movements., while tight paper roles where used to connect them to the stepper and servo motor. This controlled both the weight and stability.`
 
 ## 17.2 Build Photos
 Add photos throughout the project.
@@ -729,23 +733,23 @@ Example:
 Describe the final version of your project.
 
 **Response:**  
-`[Write here]`
+`The final version was a slightly underwhelming version of the main concept of an immersive puppet show. The app was created but was unfortunately not integrated into the final result.`
 
 ## 18.2 What Works Well
-- `[Point 1]`
-- `[Point 2]`
-- `[Point 3]`
+- `The curtain opened (after one failed attempt) with the pulley structure.`
+- `The main model of Sita was stable and the hands and head moved independently`
+- 
 
 ## 18.3 What Still Needs Improvement
-- `[Point 1]`
-- `[Point 2]`
-- `[Point 3]`
+- `The bow structure, while convincing, could have been more true to the actual mechanism of a bow, ehre we went for an abstract one.`
+- `The movement of the deer could have been in a wider arc with`
+- `Small improvements in the code of the MIT App inventor app.`
 
 ## 18.4 What Changed From the Original Plan
 How did the project change from the initial idea?
 
 **Response:**  
-`[Write here]`
+`The app was supposed to function as an interactive storybook, where turning the page made each part move.The model was also originally supposed to sink into the stage and come up to show kneeling. However, it compromised the movement of the hand and head.The theo jenson mechanism was also not implemented, since it was too small to have stable hinges.`
 
 ---
 
